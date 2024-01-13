@@ -8,8 +8,6 @@
 
 ### Tech Stack & Skills
 - **Languages:** Python, Java, JavaScript, CSS, HTML, UNIX Shell Scripting, C, C++, SQL, TypeScript, JSON, XML
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 - **Frameworks/Libraries:** REST, Flask, Django, ELK Stack, Docker, TensorFlow, React, Express, NodeJS, AWS Lambda
 - **Databases:** MySQL, PostgreSQL, Elasticsearch, Firebase, MongoDB / NoSQL, RDBMS
 - **Tools:** Git, CI/CD, Jenkins, JIRA, Swagger, Microsoft Visual Studio, Jupyter, Ansible, Eclipse
@@ -26,7 +24,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitha0612&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha0612&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitha0612)
+
 
 
 ---
