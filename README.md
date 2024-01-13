@@ -27,4 +27,4 @@
 
 ---
 
-🔗 **Find me on:** [LinkedIn](https://www.linkedin.com/in/nikitha0612/) | [GitHub](https://github.com/nikitha0612) | 📧 Email: kambhampati.ni@northeastern.edu
+🔗 **Find me on:** [LinkedIn](https://www.linkedin.com/in/nikitha-kambhampati/) | [GitHub](https://github.com/nikitha0612) | 📧 Email: kambhampati.ni@northeastern.edu
