@@ -1,4 +1,4 @@
-### Hi there, I'm Nikitha Kambhampati 👋
+### Hi there, I'm Nikitha 👋
 
 🎓 **Education:** Master of Science in Computer Software Engineering, Northeastern University (GPA: 3.9/4). Bachelor of Technology in Computer Science & Engineering, Jawaharlal Nehru Technological University.
 
