@@ -22,9 +22,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[nikitha-kambhampati]&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[nikitha-kambhampati]&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[nikitha0612]&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[nikitha0612]&layout=compact)
 
 ---
 
-🔗 **Find me on:** [LinkedIn](https://www.linkedin.com/in/nikitha-kambhampati/) | [GitHub](https://github.com/nikitha-kambhampati) | 📧 Email: kambhampati.ni@northeastern.edu
+🔗 **Find me on:** [LinkedIn](https://www.linkedin.com/in/nikitha0612/) | [GitHub](https://github.com/nikitha0612) | 📧 Email: kambhampati.ni@northeastern.edu
