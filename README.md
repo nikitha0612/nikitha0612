@@ -22,7 +22,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitha0612&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha0612&layout=compact)
 
 
