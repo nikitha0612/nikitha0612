@@ -1,6 +1,8 @@
 ### Hi there, I'm Nikitha 👋
 
-🎓 **Education:** Master of Science in Computer Software Engineering, Northeastern University (GPA: 3.9/4). Bachelor of Technology in Computer Science & Engineering, Jawaharlal Nehru Technological University.
+🎓 **Education:** 
+#Master of Science in Computer Software Engineering, Northeastern University (GPA: 3.9/4)
+#Bachelor of Technology in Computer Science & Engineering, Jawaharlal Nehru Technological University
 
 👩‍💻 **Professional Experience:** Software Engineer at Seneca Global IT Services Private Limited (Aug 2021 - July 2023). Contributions in web development, cybersecurity, and SaaS integrations.
 
