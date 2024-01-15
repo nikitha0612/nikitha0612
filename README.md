@@ -1,12 +1,14 @@
 ### Hi there, I'm Nikitha 👋
 
 🎓 **Education:** 
-#Master of Science in Computer Software Engineering, Northeastern University (GPA: 3.9/4)
-#Bachelor of Technology in Computer Science & Engineering, Jawaharlal Nehru Technological University
+**Master of Science in Computer Software Engineering**, **Northeastern University** (GPA: 3.9/4)  
+**Bachelor of Technology in Computer Science & Engineering**, **Jawaharlal Nehru Technological University** (GPA: 3.7/4)
 
-👩‍💻 **Professional Experience:** Software Engineer at Seneca Global IT Services Private Limited (Aug 2021 - July 2023). Contributions in web development, cybersecurity, and SaaS integrations.
+👩‍💻 **Professional Experience:**  
+Software Engineer at Seneca Global IT Services Private Limited (Aug 2021 - July 2023). Contributions in web development, cybersecurity, and SaaS integrations.
 
-🌟 **Honors and Awards:** Bravo Instant Recognition (March 2023), RISE Instant Recognition (Sep 2022).
+🌟 **Honors and Awards:** Bravo Instant Recognition (March 2023)  
+RISE Instant Recognition (Sep 2022)
 
 ### Tech Stack & Skills
  <div align="center">
