@@ -92,11 +92,4 @@ alt="Git" title="Git"/></code>
 - **Chat Application**: Built a Console-based web application to facilitate Client-Server Communication using Java, AWT, and Swing. This project focused on implementing effective socket programming techniques for real-time messaging.
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha0612&layout=compact)
-
-
-
----
-
 🔗 **Find me on:** [LinkedIn](https://www.linkedin.com/in/nikitha-kambhampati/) | [GitHub](https://github.com/nikitha0612) | 📧 Email: kambhampati.ni@northeastern.edu
