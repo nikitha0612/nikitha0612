@@ -11,7 +11,6 @@
 - **Frameworks/Libraries:** REST, Flask, Django, ELK Stack, Docker, TensorFlow, React, Express, NodeJS, AWS Lambda
 - **Databases:** MySQL, PostgreSQL, Elasticsearch, Firebase, MongoDB / NoSQL, RDBMS
 - **Tools:** Git, CI/CD, Jenkins, JIRA, Swagger, Microsoft Visual Studio, Jupyter, Ansible, Eclipse
-- **Soft Skills:** Organizational skills, Team player, Time management, Communication skills, Analytical and Problem-solving
 
 ### Academic Projects
 - **Eco Well:** Developed a multilingual Progressive Web App (PWA) with live stats, nutritional analysis, and integrated feedback system.
