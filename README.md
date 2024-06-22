@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikitha</h1>
-<h3 align="center">--- I'm a Software Engineering Master's student at Northeastern University with two years of full stack development experience. I specialize in building and maintaining web applications and am passionate about creating innovative software solutions.</h3>
+<h3 align="center">I'm a Software Engineering Systems Master's student at Northeastern University with two years of full stack development experience. I specialize in building and maintaining web applications and am passionate about creating innovative software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitha0612&label=Profile%20views&color=0e75b6&style=flat" alt="nikitha0612" /> </p>
 
