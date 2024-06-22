@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitha0612&label=Profile%20views&color=0e75b6&style=flat" alt="nikitha0612" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikitha0612](https://github.com/nikitha0612)
+- 👨‍💻 All of my projects are available  [here](https://github.com/nikitha0612?tab=repositories)
 
 - 📫 How to reach me **kambhampati.ni@northeastern.edu**
 
