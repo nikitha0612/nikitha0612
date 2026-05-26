@@ -31,6 +31,25 @@ Jawaharlal Nehru Technological University, Hyderabad, India | GPA: 3.70
 - Led major refactoring of distributed analytics service enabling multi-timezone support, multi-version compatibility, and comprehensive regression testing
 
 ---
+## Featured Projects
+
+### Distributed Fraud Detection & Secure API System
+- Built a distributed transaction-processing system using Spring Boot and Redis with real-time analytics workflows
+- Designed scalable APIs and queue-based processing mechanisms for high-throughput fraud detection use cases
+
+### Cloud Infrastructure & DevOps Automation
+- Automated cloud infrastructure provisioning using Terraform and Infrastructure as Code (IaC) principles across AWS resources
+- Streamlined CI/CD workflows using GitHub Actions, Kubernetes, and deployment validation pipelines
+
+### Eco Well – Nutritional Analysis Platform
+- Developed a scalable MERN-stack application with Express.js backend services and reusable React architecture
+- Integrated OAuth 2.0 authentication, Elasticsearch-powered search, multilingual support, and PWA capabilities
+
+### AWS Orchestration & ML Infrastructure
+- Designed AWS Step Functions orchestration workflows reducing ingestion latency from multi-hour pipelines to ~10 minutes
+- Productionized ML inference services on AWS ECS with CI/CD automation, monitoring, and alerting
+
+---
 
 ## Technical Skills
 
