@@ -2,10 +2,10 @@
 
 ### Software Engineer | Backend & Distributed Systems | AWS
 
-Software Engineer at **LG Energy Solutions** with **3+ years of experience** designing and building distributed backend systems, cloud-native infrastructure, and scalable data platforms on AWS.
+Software Engineer at **LG Energy Solution Vertech** with **3+ years of experience** designing and building distributed backend systems, cloud-native infrastructure, and scalable data platforms on AWS.
 
 **Core Focus Areas:**
-- Orchestration & data pipeline architecture - AWS Step Functions, Lambda, event-driven systems
+- Orchestration & Event-Driven Systems — AWS Step Functions, Lambda, distributed workflows
 - Microservices & backend APIs - Flask, Spring Boot, Node.js with RESTful design patterns
 - Cloud infrastructure & DevOps - AWS (ECS, Lambda, RDS, S3), Docker, Kubernetes, Terraform, CI/CD
 - Data platforms & real-time processing - Snowflake, Elasticsearch, ETL pipelines, schema design
@@ -36,15 +36,15 @@ Jawaharlal Nehru Technological University, Hyderabad, India | GPA: 3.70
 
 **Languages:** Python, Java, JavaScript, TypeScript, SQL
 
-**Backend & Distributed Systems:** Flask, Spring Boot, Node.js, Express.js, RESTful APIs, Microservices Architecture, System Design
+**Backend & Distributed Systems:** Flask, Spring Boot, Node.js, Express.js, RESTful APIs, Microservices Architecture
 
 **Cloud & DevOps:** AWS (Lambda, ECS, Step Functions, RDS, S3), Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, Jenkins)
 
 **Data & Databases:** ETL Pipelines, Data Modeling, Snowflake, Elasticsearch, Redis, PostgreSQL, MongoDB, MLflow
 
-**Frontend:** React, Angular, HTML, CSS
+**Frontend:** React, Angular
 
-**Tools & Platforms:** Git, Bash, Postman, Swagger, Jupyter
+**Tools & Platforms:** Git, Bash, Jupyter
 
 ---
 
